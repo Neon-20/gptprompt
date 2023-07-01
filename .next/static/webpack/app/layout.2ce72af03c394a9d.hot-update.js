@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/layout",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FProvider.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fstyles%2Fglobals.css&server=false!":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FProvider.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fstyles%2Fglobals.css&server=false! ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Nav.jsx */ \"(app-client)/./components/Nav.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Provider.jsx */ \"(app-client)/./components/Provider.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"(app-client)/./styles/globals.css\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGcHJhbmF2cmFqdmVlciUyRkRlc2t0b3AlMkZuZXh0cHJvai4xJTJGY29tcG9uZW50cyUyRk5hdi5qc3gmbW9kdWxlcz0lMkZVc2VycyUyRnByYW5hdnJhanZlZXIlMkZEZXNrdG9wJTJGbmV4dHByb2ouMSUyRmNvbXBvbmVudHMlMkZQcm92aWRlci5qc3gmbW9kdWxlcz0lMkZVc2VycyUyRnByYW5hdnJhanZlZXIlMkZEZXNrdG9wJTJGbmV4dHByb2ouMSUyRnN0eWxlcyUyRmdsb2JhbHMuY3NzJnNlcnZlcj1mYWxzZSEiLCJtYXBwaW5ncyI6IkFBQUEsMkpBQStGO0FBQy9GLHFLQUFvRztBQUNwRyIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvP2U1YzkiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvcHJhbmF2cmFqdmVlci9EZXNrdG9wL25leHRwcm9qLjEvY29tcG9uZW50cy9OYXYuanN4XCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvVXNlcnMvcHJhbmF2cmFqdmVlci9EZXNrdG9wL25leHRwcm9qLjEvY29tcG9uZW50cy9Qcm92aWRlci5qc3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9wcmFuYXZyYWp2ZWVyL0Rlc2t0b3AvbmV4dHByb2ouMS9zdHlsZXMvZ2xvYmFscy5jc3NcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FNav.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fcomponents%2FProvider.jsx&modules=%2FUsers%2Fpranavrajveer%2FDesktop%2Fnextproj.1%2Fstyles%2Fglobals.css&server=false!\n"));
+
+/***/ })
+
+});
